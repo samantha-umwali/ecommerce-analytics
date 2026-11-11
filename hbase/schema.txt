@@ -1,0 +1,3 @@
+create 'user_sessions', 'meta', 'activity'
+create 'product_metrics', 'daily'
+list

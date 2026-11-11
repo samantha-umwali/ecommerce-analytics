@@ -1,0 +1,6 @@
+Stage,Count,Pct_of_Sessions,Pct_of_Previous
+All Sessions,50000,100.0,
+Product View,49337,98.67,98.67
+Cart,33967,67.93,68.85
+Checkout,21818,43.64,64.23
+Purchase,10070,20.14,46.15

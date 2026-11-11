@@ -1,0 +1,21 @@
+cat_a,name_a,cat_b,name_b,shared_buyers
+cat_004,Kelly-Santiago,cat_017,Hancock Inc,416
+cat_014,"Anderson, Walls and Duncan",cat_017,Hancock Inc,411
+cat_004,Kelly-Santiago,cat_014,"Anderson, Walls and Duncan",410
+cat_004,Kelly-Santiago,cat_021,Mitchell-Kim,410
+cat_005,Cameron-Parsons,cat_017,Hancock Inc,410
+cat_004,Kelly-Santiago,cat_005,Cameron-Parsons,407
+cat_004,Kelly-Santiago,cat_019,Powell PLC,399
+cat_004,Kelly-Santiago,cat_020,"Brewer, Bryant and Hickman",398
+cat_001,Baldwin Ltd,cat_004,Kelly-Santiago,394
+cat_012,Carney-Santos,cat_017,Hancock Inc,394
+cat_001,Baldwin Ltd,cat_017,Hancock Inc,393
+cat_004,Kelly-Santiago,cat_012,Carney-Santos,391
+cat_004,Kelly-Santiago,cat_015,Owens-Daniel,391
+cat_003,Bush Inc,cat_017,Hancock Inc,389
+cat_006,"Ellis, Baker and Wright",cat_017,Hancock Inc,388
+cat_017,Hancock Inc,cat_018,Phillips Inc,386
+cat_017,Hancock Inc,cat_019,Powell PLC,386
+cat_012,Carney-Santos,cat_020,"Brewer, Bryant and Hickman",384
+cat_004,Kelly-Santiago,cat_018,Phillips Inc,380
+cat_004,Kelly-Santiago,cat_024,"Patterson, Smith and Jones",378
